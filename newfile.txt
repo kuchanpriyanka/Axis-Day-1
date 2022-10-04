@@ -1,0 +1,2 @@
+This is a file to be added in the local repository.
+Then this will be pused on to the central repository.
